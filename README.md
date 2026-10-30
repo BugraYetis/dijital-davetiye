@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Dijital Davetiye
+# 💌 Dijital Davetiye
 
 **Web + Panel · LCV Paneli**
 
