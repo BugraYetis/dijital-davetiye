@@ -4,13 +4,13 @@
 
 **Web + Panel · LCV Paneli**
 
-<img src="https://bugrayetis.github.io/yeni/assets/davetiye/saray.jpg" width="32%" />
-<img src="https://bugrayetis.github.io/yeni/assets/davetiye/araba.jpg" width="32%" />
-<img src="https://bugrayetis.github.io/yeni/assets/davetiye/yat.jpg" width="32%" />
+<img src="https://bugrayetis.github.io/adventure-mod/assets/davetiye/saray.jpg" width="32%" />
+<img src="https://bugrayetis.github.io/adventure-mod/assets/davetiye/araba.jpg" width="32%" />
+<img src="https://bugrayetis.github.io/adventure-mod/assets/davetiye/yat.jpg" width="32%" />
 
 <br/><br/>
 
-<a href="https://bugrayetis.github.io/mevcut.html#proje-davetiye"><img src="https://img.shields.io/badge/🔍_Açıklama,_Ön_İzleme_ve_İçerik_İçin-Portfolyoma_Göz_At_→-6c63ff?style=for-the-badge" alt="Portfolyoda incele" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-davetiye"><img src="https://img.shields.io/badge/🔍_Açıklama,_Ön_İzleme_ve_İçerik_İçin-Portfolyoma_Göz_At_→-6c63ff?style=for-the-badge" alt="Portfolyoda incele" /></a>
 
 </div>
 
@@ -35,13 +35,13 @@ Sinematik video girişli animasyonlu düğün davetiyesi. Geri sayım, takvime e
 ## 🔒 Kaynak Kod
 
 Bu repo yalnızca projenin tanıtımını içerir. Müşteri gizliliği ve telif hakları nedeniyle kaynak kod paylaşılmıyor.
-Projeyi canlı görmek, ekran görüntülerine ve detaylarına bakmak için **[portfolyomdaki proje sayfasına](https://bugrayetis.github.io/mevcut.html#proje-davetiye)** göz atın.
+Projeyi canlı görmek, ekran görüntülerine ve detaylarına bakmak için **[portfolyomdaki proje sayfasına](https://bugrayetis.github.io/normal-mod#proje-davetiye)** göz atın.
 
 ---
 
 <div align="center">
 
-<a href="https://bugrayetis.github.io/mevcut.html#proje-davetiye"><img src="https://img.shields.io/badge/🌐_Portfolyoda_İncele-bugrayetis.github.io-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-davetiye"><img src="https://img.shields.io/badge/🌐_Portfolyoda_İncele-bugrayetis.github.io-6c63ff?style=for-the-badge" /></a>
 <a href="https://github.com/BugraYetis"><img src="https://img.shields.io/badge/👤_Tüm_Projeler-BugraYetis-181717?style=for-the-badge&logo=github" /></a>
 
 <sub>Buğra Yetiş — Mid Web Developer & Grafik Tasarımcı · İstanbul</sub>
